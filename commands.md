@@ -12,3 +12,9 @@ displays the current repo state
 
 git log
 displays the logged history of the repo
+
+git checkout 
+switches branch to target branch
+
+git merge
+merges the target branch to the current branch
